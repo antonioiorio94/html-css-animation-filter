@@ -73,3 +73,17 @@ transform: scale(0.5);
 }
 
 /*---/ESERCIZIO 6*/
+
+
+/*---ESERCIZIO 7*/
+
+.ex-7-img{
+    transition: 3s;
+}
+
+.ex-7-img:hover{
+    filter: saturate(2) hue-rotate(45deg);
+
+}
+
+/*---/ESERCIZIO 7*/
