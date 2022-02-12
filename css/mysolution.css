@@ -34,3 +34,13 @@ transition: ease-in 3s;
 /*---/ESERCIZIO 3*/
 
 
+/*---ESERCIZIO 4*/
+
+.ex-4-square {
+    transition: opacity 3s;
+}
+
+.ex-4-square:hover {
+    opacity: 0%;
+}
+/*---/ESERCIZIO 4*/
