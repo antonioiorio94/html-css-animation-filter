@@ -87,3 +87,15 @@ transform: scale(0.5);
 }
 
 /*---/ESERCIZIO 7*/
+
+
+/*---ESERCIZIO 8*/
+
+.ex-8-img {
+    transition: 3s ease-in;
+}
+.ex-8-img:hover {
+    filter: drop-shadow(2px 4px 6px black) blur(1px);
+    border-radius: 30px;
+/*---/ESERCIZIO 8*/
+
