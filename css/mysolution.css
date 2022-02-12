@@ -61,3 +61,15 @@ transform: scale(2);
 transform: scale(0.5);
 }
 /*---/ESERCIZIO 5*/
+
+/*---ESERCIZIO 6*/
+
+.ex-6-img {
+    transition: 3s;
+}
+
+.ex-6-img:hover{
+    filter: grayscale(1);
+}
+
+/*---/ESERCIZIO 6*/
