@@ -124,3 +124,22 @@ transform: scale(0.5);
     }
 }
 /*---/ESERCIZIO 10*/
+
+/*---ESERCIZIO 11*/
+
+.ex-11-icon:hover {
+    animation: spin 2s linear;
+}
+@keyframes spin {
+    0% {
+        transform: rotate(0);
+    }
+    90% {
+        transform: rotate(250deg);
+    }
+    100% {
+        transform: rotate(0);
+    }
+}
+
+/*---/ESERCIZIO 11*/
