@@ -9,3 +9,15 @@
     background-color: red;
 }
 /*---/ESERCIZIO 1*/
+
+/*---ESERCIZIO 2*/
+
+.ex-2-square {
+    transition: 3s ease-out;
+}
+
+.ex-2-square:hover{
+    width: 500px;
+}
+
+/*---/ESERCIZIO 2*/
