@@ -113,3 +113,14 @@ transform: scale(0.5);
 
 
 /*---/ESERCIZIO 9*/
+
+/*---ESERCIZIO 10*/
+.ex-10-icon {
+    animation: spin 2s linear infinite;
+}
+@keyframes spin {
+    0% {
+        transform: rotate(1turn);
+    }
+}
+/*---/ESERCIZIO 10*/
