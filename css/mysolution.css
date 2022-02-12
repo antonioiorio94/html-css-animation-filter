@@ -96,6 +96,20 @@ transform: scale(0.5);
 }
 .ex-8-img:hover {
     filter: drop-shadow(2px 4px 6px black) blur(1px);
-    border-radius: 30px;
+    border-radius: 30px;}
 /*---/ESERCIZIO 8*/
 
+
+/*---ESERCIZIO 9*/
+
+.ex-9-img{
+    transition: 3s;
+}
+.ex-9-img:hover {
+    filter: drop-shadow(2px 4px 6px rgb(77, 35, 58)) contrast(2);
+    border-radius: 30px;
+    transform: scale(2);
+}
+
+
+/*---/ESERCIZIO 9*/
